@@ -8,5 +8,12 @@
 <body>
     <h1>Hello world</h1>
     <p>Lorem ipsum dolor sit amet consectetur.</p>
+    <ul>
+        <li>Ini 1</li>
+        <li>Ini 2</li>
+        <li>Ini 3</li>
+        <li>Ini 4</li>
+        <li>Ini 5</li>
+    </ul>
 </body>
 </html>
