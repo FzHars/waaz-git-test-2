@@ -8,6 +8,7 @@
 <body>
     <h1>Hello world</h1>
     <p>Lorem ipsum dolor sit amet consectetur.</p>
+    <p>Lorem ipsum dolor sit amet consectetur.</p>
     <ul>
         <li>Ini 1</li>
         <li>Ini 2</li>
